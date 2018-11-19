@@ -1,1 +1,1 @@
-module 192.168.9.251/shitaibin/testmod
+module github.com/shitaibin/testmod
